@@ -6,7 +6,7 @@ This is a small project of manage a library, project for learning Odoo develpmen
 
 4 modules:
 
-1 - ** library_app ** => main module = main app => with the main menu and interfaz of the project in odoo backend
+1 - **library_app** => main module = main app => with the main menu and interfaz of the project in odoo backend
 
     Will be 4 versions/iterations over this module (To explain several concepts: structure of module, data, models...)
 
@@ -18,13 +18,13 @@ This is a small project of manage a library, project for learning Odoo develpmen
 
             v04 => 4th iteration / Last commit [T08] = Finnish the project
 
-2 - ** library_member ** => extra module = extra app => for extra functionality to manage members of the library in odoo backend
+2 - **library_member** => extra module = extra app => for extra functionality to manage members of the library in odoo backend
 
     Will be just 1 version/iteration over this module (Just to explain inherit in Odoo)
 
             v01 => 1st iteration [T03] = extends functionality in odoo / inherit
 
-3 - ** library_checkout ** => extra module = extra app => for extra functionality to manage checkouts of library books in odoo backend
+3 - **library_checkout** => extra module = extra app => for extra functionality to manage checkouts of library books in odoo backend
 
     Will be 3 versions/iterations over this module (To explain several concepts: ORM, Views, Qweb Reports...)
 
@@ -34,7 +34,7 @@ This is a small project of manage a library, project for learning Odoo develpmen
 
             v03 => 3rd iteration [T08] = Qweb Reports (Note: this affects to main module app to include a new menu option/action)
 
-4 - ** library_website ** => extra module = extra app => for first aproximation to odoo frontend            
+4 - **library_website** => extra module = extra app => for first aproximation to odoo frontend            
 
     Will be just 1 version/iteration over this module (Just to explain/show concepts of odoo frontend)
 
